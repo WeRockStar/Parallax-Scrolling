@@ -4,5 +4,5 @@
 ```
 
 #### Screenshot
-![](https://github.com/WeRockStar/Parallax-Scrolling/blob/master/Screenshot1.png)
-![](https://github.com/WeRockStar/Parallax-Scrolling/blob/master/Screenshot2.png)
+<img src="https://github.com/WeRockStar/Parallax-Scrolling/blob/master/Screenshot1.png" width="400">
+<img src="https://github.com/WeRockStar/Parallax-Scrolling/blob/master/Screenshot2.png" width="400">
